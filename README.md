@@ -41,7 +41,8 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Circuit Diagram
 
 ### 1. Tri State D Flip-Flop
-![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
+<img width="1621" height="829" alt="image" src="https://github.com/user-attachments/assets/e512e73c-a772-4073-8d2a-ed83b6b6b658" />
+
 
 ### 2. Schematic of D Flip-Flop
 ![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
